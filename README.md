@@ -7,13 +7,10 @@ technologies on the side.
 
 Some points about me:
 
-- 🌍 My native language is German, but I'm fluent in English and starting to get
-  conversational in Japanese.
+- 🌍 My native language is German, but I'm fluent in English and conversational
+  in Japanese.
 - 🇯🇵 I've made the move to Japan in early 2025.
-- ✍️ Currently, I'm working on creating a blog to write about my travels and
-  language learning journey.
-- 🔧 I mainly use [GitLab](https://gitlab.com/christianzoeller) for development,
-  so this is where you'll find CI/CD pipelines.
+- 🔧 I mainly use [GitLab](https://gitlab.com/christianzoeller) for development.
 - 👀 What I'm interested in:
     - 💻 Coding
     - 📓 Language Learning
@@ -27,8 +24,9 @@ Some points about me:
 ## Tech
 
 This is a non-exhaustive lists of programming languages, frameworks, tools and so on
-that I use or have worked with in the past. For further information on how long I've
-used them or where, please consult [my website](https://christianzoeller.dev/projects.html).
+that I use or have worked with in the past. For further information on my career, please
+visit [my website](https://christianzoeller.com) or
+[my LinkedIn profile](https://www.linkedin.com/in/christian-zoeller).
 
 ### Languages
 
